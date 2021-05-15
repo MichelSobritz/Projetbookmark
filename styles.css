@@ -1,0 +1,26 @@
+
+.navbar {
+    background-image: url("imageweb/2705339.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+.container {
+    max-width: 100%;
+}
+.noPadding {
+    padding:0px !important;
+}
+.styledRow {
+    background-image: url("imageweb/z.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    margin:0px;
+}
+.jumbotron {
+    margin-bottom: 0px;
+    background-color: rgb(43, 42, 42, 0.5);
+    color:white;
+}
+.card {
+margin: 10px;
+}
